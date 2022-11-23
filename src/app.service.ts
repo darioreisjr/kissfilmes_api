@@ -6,7 +6,7 @@ export class AppService {
   getAtores(): any {
     let atores = [{
       id: 1,
-      foto: 'https://imageup.me/kissflixatorajelina.png',
+      foto: 'https://imgur.com/KC8q2fG.png',
       nome: 'Angelina Jolie',
       data_nascimento: '4 de junho de 1975',
       nacionalidade: 'norte-americana',
@@ -15,7 +15,7 @@ export class AppService {
 
     }, {
       id: 2,
-      foto: 'https://imageup.me/kissflixatorsandrabullock.png',
+      foto: 'https://imgur.com/H4wIk5G.png',
       nome: 'Sandra Bullock',
       data_nascimento: '26 de julho de 1964',
       nacionalidade: 'norte-americana',
